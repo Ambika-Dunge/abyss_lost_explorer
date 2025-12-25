@@ -44,23 +44,9 @@ abyss_lost_explorer/
 ---
 
 ## 🚀 How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Ambika-Dunge/abyss_lost_explorer.git
-   cd abyss_lost_explorer
-
-
 Install Pygame
-
 pip install pygame
-
-
 Run the Game
-
-bash
-Copy
-Edit
 python main.py
 🔊 Game Sound Effects
 🎵 background music.mp3 — background ambiance
@@ -82,11 +68,6 @@ Custom sounds for actions
 
 Fullscreen display support
 
-📸 Screenshots
-(Add screenshots here if available)
-
-You can take screenshots by pressing PrtSc or using Snipping Tool while game is running.
-
 💡 Future Improvements
 Add levels and story progression
 
@@ -107,15 +88,6 @@ Ambika Dunge	@Ambika-Dunge
 
 
 
----
-
-📝 **How to use:**
-- Save this as `README.md` inside your project folder.
-- Commit and push:
-  ```bash
-  git add README.md
-  git commit -m "📝 Added README with game details"
-  git push origin main
 
 
 
