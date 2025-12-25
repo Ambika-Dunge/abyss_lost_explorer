@@ -22,7 +22,7 @@ if os.path.exists("assets"):
 else:
     print("🚫 Assets Folder Not Found")
 
-
+# Load Music
 try:
     pygame.mixer.music.load("assets/background music.mp3")
     pygame.mixer.music.set_volume(0.4)
